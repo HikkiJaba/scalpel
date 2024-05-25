@@ -1,0 +1,12 @@
+header {
+    background-color: blueviolet;
+    border: 1px solid;
+    margin: 0 auto;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 25px;
+    border-radius: 0 0 15px 15px;
+    position: relative;
+}
